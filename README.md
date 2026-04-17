@@ -4,7 +4,7 @@ As a Technical Program Manager, I've always believed the best way to drive techn
 
 So I built a tool to force myself to go deeper on AWS.
 
-It's a fully self-contained interactive learning platform — one HTML file, no internet required — that I've been iterating on for the past several weeks. Here's what it's become:
+It's a fully self-contained interactive learning platform — one HTML file, no internet required — that I've been iterating on for the past several weeks. Here's what it's become:https://samyvishnu.github.io/AWS-SAA-SAP/
 
 
 ━━━━━━━━━━━━━━━━━━━━━━
